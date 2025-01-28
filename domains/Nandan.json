@@ -1,1 +1,11 @@
-
+{
+    "description": "Show my Projects",
+    "repo": "https://github.com/NandanBhawsar/Projects",
+    "owner": {
+        "username": "NandanBhawsar",
+        "email": "bhawsarnandan@gmail.com"
+    },
+    "record": {
+        "CNAME": "github-username.github.io"
+    }
+}
